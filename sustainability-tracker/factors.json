@@ -1,0 +1,14 @@
+{
+  "electricity_kg_per_kwh": 0.5,
+  "commute_kg_per_km": {
+    "car_petrol": 0.192,
+    "car_diesel": 0.171,
+    "motorbike": 0.103,
+    "bus": 0.105,
+    "metro_train": 0.041,
+    "walking": 0.0,
+    "cycling": 0.0,
+    "ev_car": 0.053
+  },
+  "baseline_commute_mode": "car_petrol"
+}
